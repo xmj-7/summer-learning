@@ -9,4 +9,6 @@ day2:字符串-File方法
 
 day3_1:字符串-异常处理
 
-day3_2:面向对象
+day3_2：面向对象
+
+day1_numpy-day3_numpy：完成numpy的学习
