@@ -18,3 +18,5 @@ day1_plt：学会折线图，条形图，散点图的绘制，参数调整，一
 day1_pandas-day2_pandas:完成pandas模块的学习
 
 KNN分类：使用KNN算法对鸢尾花进行分类，并通过plt可视化
+
+KNN回归：使用KNN算法对鸢尾花花瓣宽度进行回归预测
